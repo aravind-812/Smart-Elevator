@@ -15,6 +15,6 @@ What’s the system and how it works? In our system we have simulated the lift e
 
 # Instructions to Run This System:
  
-$ Firstly Arduino code has to be flashed/dumped into the Arduino.
+$ First Arduino code has to be flashed/dumped into the Arduino.
  
 $ Run the Python code.
